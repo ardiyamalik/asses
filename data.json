@@ -1,0 +1,8 @@
+[
+  {"menu": "Kentang Goreng", "harga": "Rp. 25.000", "imageId": "kentang"},
+  {"menu": "Cordon Bleu", "harga": "Rp. 40.000", "imageId": "cordon"},
+  {"menu": "Chicken Katsu", "harga": "Rp. 35.000", "imageId": "katsu"},
+  {"menu": "Kopi Susu", "harga": "Rp. 10.000", "imageId": "kopsus"},
+  {"menu": "Matcha Latte", "harga": "Rp. 10.000", "imageId": "matcha"},
+  {"menu": "V60", "harga": "Rp. 15.000", "imageId": "v60"}
+]
